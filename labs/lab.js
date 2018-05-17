@@ -38,8 +38,13 @@
 //     }
 // }
 
-function seyHello(rt = 'fuck'){
-    console.log(rt);
-}
-
-seyHello();
+// function seyHello(rt = 'fuck'){
+//     console.log(rt);
+// }
+//
+// seyHello();
+//
+// function seyHello() {
+//     return 'dawd';
+// }
+// console.log(seyHello());
