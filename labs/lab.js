@@ -48,3 +48,12 @@
 //     return 'dawd';
 // }
 // console.log(seyHello());
+
+// function say(greet) {
+//     return function(name){
+//         return greet + " " + name;
+//     }
+// }
+//
+// var en = say("Hello");
+// say()
