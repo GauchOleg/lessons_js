@@ -57,3 +57,17 @@
 //
 // var en = say("Hello");
 // say()
+
+// var user = {
+//     x : 'a',
+//     y : 'b',
+//     z : 'c',
+// }
+
+// for (var i = 0; i in user; i++) {
+//     console.log(i + " : " + user[i]);
+// }
+
+// for (var i in user) {
+//     console.log(i + " : " + user[i]);
+// }
