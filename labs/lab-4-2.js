@@ -17,5 +17,5 @@ var book2 = {
     show : show,
 };
 
-book1.show();
-book2.show();
+// book1.show();
+// book2.show();
